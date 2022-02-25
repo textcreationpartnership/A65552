@@ -1,0 +1,452 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pastoral admonitions directed by the Bishop of Cork to all under his charge ; whereunto is added A sermon reflecting on the late sufferings and deliverance of the Protestants in the said county and city, preached at White-Hall on the fourth Sunday in Lent, March 22, 1690.</title>
+            <author>Church of Ireland. Diocese of Cork and Ross. Bishop (1679-1699 : Wettenhall)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65552</idno>
+            <idno type="STC">Wing W1508</idno>
+            <idno type="STC">ESTC R38579</idno>
+            <idno type="EEBO-CITATION">17802065</idno>
+            <idno type="OCLC">ocm 17802065</idno>
+            <idno type="VID">106615</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106615)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1109:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pastoral admonitions directed by the Bishop of Cork to all under his charge ; whereunto is added A sermon reflecting on the late sufferings and deliverance of the Protestants in the said county and city, preached at White-Hall on the fourth Sunday in Lent, March 22, 1690.</title>
+                  <author>Church of Ireland. Diocese of Cork and Ross. Bishop (1679-1699 : Wettenhall)</author>
+                  <author>Wettenhall, Edward, 1636-1713.</author>
+               </titleStmt>
+               <extent>[2], xvi,  [2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Brent, for David Jones ...,</publisher>
+                  <pubPlace>Cork :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A sermon preached at White-Hall, before the Queen, on the fourth Sunday in Lent, March 22. 1690" has special t.p. and separate paging.</note>
+                  <note>Attributed to Wettenhall by Wing and NUC pre-1956 imprints.</note>
+                  <note>Errata: prelim. p. [2].</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Ireland --  Pastoral letters and charges.</term>
+               <term>Sermons, Irish --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106615:1"/>
+            <pb facs="tcp:106615:1"/>
+            <p>PASTORAL ADMONITIONS Directed by the BISHOP of CORK To all under His Charge.</p>
+            <p>Whereunto is added A SERMON REFLECTING On the late Sufferings and Deliverance of the Proteſtants in the ſaid County and City.</p>
+            <p>Preached at <hi>White-Hall</hi> on the Fourth <hi>Sunday</hi> in <hi>Lent, March</hi> 22. 1690.</p>
+            <p>
+               <hi>CORK,</hi> Printed by <hi>John Brent,</hi> for <hi>David Jones</hi> Bookſeller; and are to be ſold at his Shop in <hi>Cork,</hi> 1691.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:106615:2" rendition="simple:additions"/>
+            <p>Through haſt theſe faults are eſcaped, which be pleaſed to amend before you read the whole.</p>
+            <p>
+               <hi>PAg. I. lin.</hi> 10. <hi>read</hi> I wiſh. <hi>pag. VI. l.</hi> 17 <hi>r.</hi> I do not ſay, we here. <hi>p. IX. l.</hi> 21. 1 are able to <hi>p. XI. l.</hi> 1. <hi>r.</hi> from every evil. <hi>p.</hi> 16. <hi>l.</hi> 14. <hi>r.</hi> wrath both of God's and of their own. <hi>p.</hi> 22. <hi>l.</hi> 7. <hi>r.</hi> Wraths. <hi>p. la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, l.</hi> 10. <hi>r.</hi> together Laws.</p>
+         </div>
+         <div type="dedication">
+            <pb n="I" facs="tcp:106615:2"/>
+            <head>
+               <hi>To my Dearly Beloved Brethren and Neighbours of the</hi> County <hi>and</hi> City of Corke. <hi>As well ſuch who were</hi> Fellow Sufferers <hi>with me in all our late Calamities, as ſuch who</hi> Retired ſeaſonably <hi>from part of them. Grace and Peace be multiplied.</hi>
+            </head>
+            <p>
+               <hi>Brethren</hi> and <hi>Neighbours,</hi> Dearly Belo<g ref="char:EOLhyphen"/>ved; <hi>My Joy,</hi> and I wiſh I may be able to ſay, <hi>My Crown:</hi>
+            </p>
+            <p>THat I was not <hi>unmindful</hi> of you, or wanting to do you <hi>j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtice,</hi> in that <hi>my late abſence,</hi> which bodily indiſpoſi<g ref="char:EOLhyphen"/>tion firſt made neceſſary, and then cir<g ref="char:EOLhyphen"/>cumſtances, that I could not remedy, protracted (beyond my firſt or laſt inten<g ref="char:EOLhyphen"/>tion) to <hi>ten tedious months,</hi> My <hi>Conſtant Thoughts and Prayers,</hi> as well as the <hi>Ac<g ref="char:EOLhyphen"/>count</hi> I every where gave of you, could you be ſufficiently acquainted there<g ref="char:EOLhyphen"/>with, would abundantly manifeſt: But
+<pb n="II" facs="tcp:106615:3"/> to poſſeſs you with ſuch things, is not the deſign of the preſent paper to you. It comes only to bring to you an <hi>Admoni<g ref="char:EOLhyphen"/>tion</hi> or two, which the ſame, my conſtant true <hi>Affection</hi> and <hi>Zeal</hi> for your good, prompts; Namely, to beſeech and con<g ref="char:EOLhyphen"/>jure you, that <hi>you</hi> will <hi>be mindful</hi> of, and <hi>juſt to your ſelves;</hi> I mean to thoſe your <hi>Vows,</hi> which <hi>your lips have uttered, and your mouths have ſpoken when we were in trouble.</hi>
+            </p>
+            <p>
+               <hi>Humane nature</hi> is very apt upon all oc<g ref="char:EOLhyphen"/>caſions <hi>to promiſe fair;</hi> but <hi>mutable</hi> with<g ref="char:EOLhyphen"/>al, and <hi>ſlow to perform:</hi> Beware of it.</p>
+            <p>Though I moſt intimately <hi>knew</hi> your <hi>ſufferings,</hi> and felt not only my own ſhare, but by compaſſion, and ſympathy, a great meaſure of your ſhare alſo; yet I <hi>cannot ſay</hi> I am <hi>privy</hi> to any <hi>ſpecial vows</hi> then made by any of you: but I am confident this <hi>in general</hi> was the <hi>com<g ref="char:EOLhyphen"/>mon vow</hi> of all, or moſt of us, that <hi>If God would pleaſe to mend our condition, we would mend our manners.</hi> In his name therefore, I importune and conjure you, to <hi>Examine</hi> ſtrictly, whether you have been <hi>faithful</hi> herein, to what you then in your hearts intended, and promiſed. What lives did you, while in pri<g ref="char:EOLhyphen"/>ſons
+<pb n="III" facs="tcp:106615:3"/> or reſtraints, while every minute, as to life it ſelf, in your enemies hands, and at their mercy: when amidſt flames and ravage, Amidſt bullets (great and ſmall) and Bombs over your heads, What lives, I ſay, did you then promiſe to God, and your ſelves, to live, if God youchſafed to deliver you from thoſe Calamities? How often, and how con<g ref="char:EOLhyphen"/>ſtantly to pray, to faſt, to communicate, &amp; to keep a ſtrict account of your ways? What ſobriety, reſervedneſs, and conſi<g ref="char:EOLhyphen"/>derativeneſs in all your Actions did you promiſe and project? What retrench<g ref="char:EOLhyphen"/>ments of unneceſſaries and Luxury? What Liberality in Alms? What aban<g ref="char:EOLhyphen"/>doning of this world, and habitual pre<g ref="char:EOLhyphen"/>patation for Heaven? And have we done all this?</p>
+            <p>Thoſe of us, who were not in theſe dangers, being before hand driven away with the terrors of the ſtorm we ſaw approaching, did notwithſtanding, I queſtion not, in the reſpective places, whither they had fled, make to God like promiſes or Vows.</p>
+            <p>I may therefore (generally ſpeaking) ſay, Then we were all of us in a great meaſure reformed, ſerious in our Reli<g ref="char:EOLhyphen"/>gion,
+<pb n="IV" facs="tcp:106615:4"/> zealous for it, penitent for our ſins, full of Faith and Reſignation to God. Nay, really, not only in thoſe our extre<g ref="char:EOLhyphen"/>mities, but ſome while both before things came to ſuch height, and after<g ref="char:EOLhyphen"/>wards, there appeared much of ſuch hap<g ref="char:EOLhyphen"/>py change upon moſt of us. Now do we ſtill retain the ſame impreſſions? the ſame reſolution temper and endeavour as then we ſeem'd inſpirited with?</p>
+            <p>I muſt be plain and vehement with you; for my ſoul, and your ſouls, lie at ſtake: If we are <hi>returned again to the mire,</hi> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (which is much the ſame) meer<g ref="char:EOLhyphen"/>ly to minding <hi>our thick clay</hi> God's <hi>Judg<g ref="char:EOLhyphen"/>ments th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> and his <hi>Mercies now,</hi> are <hi>thrown away</hi> upon us. And then, ſee<g ref="char:EOLhyphen"/>ing nothing will finally mend us, what can we expect, but <hi>utter exciſion,</hi> and a <hi>dreadful portion</hi> of <hi>wrath to come.</hi>
+            </p>
+            <p>I will be ſo candid, as to profeſs <hi>I hope</hi> better things touching <hi>many,</hi> and <hi>endea<g ref="char:EOLhyphen"/>vour</hi> better touching <hi>all:</hi> But my heart bleeds to ſee, not a few of us as vain and Luxurious, as looſe and licentious, as gid<g ref="char:EOLhyphen"/>dy and negligent, not only in ordinary converſation, but even in the worſhip of God, as ever we were. I warn you of theſe things in my Sermons (it may
+<pb n="V" facs="tcp:106615:4"/> be ſome think too earneſtly, at leaſt) fre<g ref="char:EOLhyphen"/>quently; I ſhall yet, God bleſſing me, not fail ſo to do, one way or other, as long as God thinks fit to continue me in a capacity. <hi>This preſent warning</hi> perhaps <hi>ſome</hi> of you will <hi>re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi> who may not have the opportunity, or will not come, to <hi>hear</hi> me. I beſeech all of you to receive it in meekneſs cordially, and without of<g ref="char:EOLhyphen"/>fence, from him, who does it really in the fear of God, and to deliver both his own ſoul, and yours, in the great day of the Lord.</p>
+            <p>We have <hi>ſeen enough</hi> (if any thing can be enough) within theſe two or three laſt years, <hi>to take us off</hi> from <hi>flattering our ſelves</hi> or others, either in open ſin, or in a lukewarm, formal, heartleſs profeſſion of Religion. For my own part, if any one ſee me behaving my ſelf contrary to ſuch vows as thoſe above-mentioned, if any ſee me vain, trifling away my time, indulging riot, Luxury, or the like, I will be ſo far from taking it amiſs, to be by any one Chriſtianly minded, or reproved, of my forgetfulneſs of my ſelf, and of my vows, that I will thank the perſon, praiſe God for him, yea, and pray to God for him too, who does it:
+<pb n="VI" facs="tcp:106615:5" rendition="simple:additions"/> and I beſeech you, do none of you take this amiſs from me, whoſe duty more eſpecially it is <hi>to ſpeak theſe things, to exhort and rebuke with all Authority.</hi> Out of the bowels of Charity, and with tender compaſſion to all your ſouls, write I theſe things unto you.</p>
+            <p>And now I have begun to deal thus roundly and freely with you; give me leave to add this <hi>Advertiſement,</hi> that perhaps It is highly <hi>Neceſsary</hi> many of us <hi>Reform farther</hi> than poſſibly our <hi>Parti<g ref="char:EOLhyphen"/>cular vows</hi> may carry us. It may be, we did not, or have not taken notice in our ſelves of all the ſins, by which we have contributed to the publick miſeries. I will not, I do not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſay, we have been more guilty than our neighbours in other Counties: but this I may ſay, we have ſuffer'd more than many, and as much as moſt: wherefore it becomes us nar<g ref="char:EOLhyphen"/>rowly to <hi>Examine</hi> into the <hi>meaſure and particulars of our guilt.</hi>
+            </p>
+            <p>Let us then each particularly, as our ſufferings have been, put the queſtion to our conſciences, has it not been for ſuch and ſuch our ſins, that we have ſuffer'd thus and thus? that God of late ſhook us out of the land, which we accounted
+<pb n="VII" facs="tcp:106615:5"/> he had given us for an inheritance, that our goods were ſpoiled, or torn away be<g ref="char:EOLhyphen"/>fore our faces, our houſes burnt, our good<g ref="char:EOLhyphen"/>ly plantations deſtroyed, that our Wives have been deſolate, and our Children ſeeking their bread amongſt ſtrangers, that many of our brethren have died for want of food, that our very own ſer<g ref="char:EOLhyphen"/>vants have born rule over us, and (to uſe Holy <hi>Job</hi>'s words) <hi>we have been a deriſion to thoſe, whoſe fathers we would have diſ<g ref="char:EOLhyphen"/>dained</hi> 
+               <note place="margin">Job XXX. 1.</note> 
+               <hi>to have ſet with the dogs of our flock?</hi> Has it not been for our <hi>manifold tranſgreſſions and mighty ſins,</hi> that all theſe <note place="margin">Amos V. 22.</note> evils have fallen upon us? I, in the name of God, require all perſons to examine their own conſciences, and in the fear of God, as they find things, to repent, and reform.</p>
+            <p>I will only further add a <hi>few Earneſt,</hi> but <hi>plain and neceſſary requeſts</hi> unto you, which if I can but prevail for, I ſhall not doubt but a true and general amendment in us will follow, and God's mercies at<g ref="char:EOLhyphen"/>tend us.</p>
+            <p>The Firſt is, that you would each one of you uſe <hi>daily to pray in ſecret,</hi> though ſuch ſecret Prayers ſhould be the ſhorter: and Remember always <hi>to put your hearts</hi>
+               <pb n="VIII" facs="tcp:106615:6"/> 
+               <hi>into your prayers.</hi> Secret prayers you may truly account your own: As to prayers with the Family, or the Church, the Au<g ref="char:EOLhyphen"/>thority of the chief of the Family, or the cuſtom of the Countrey, puts you upon them, and brings you to them; but <hi>ſecret prayers</hi> come only <hi>from within</hi> your ſelves, from conſcience, that is, from <hi>a ſenſe of duty,</hi> and from the fear or love of God in you; and ſo, as ſaid, are pure<g ref="char:EOLhyphen"/>ly your own, and will moſt ſurely ſpeed, if ſincere. Wherefore omit not any day the practice of this kind of prayer.</p>
+            <p>Secondly, I beſeech further, That all ſuch, who have Families, would ſet up the <hi>daily worſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p of God in their Families.</hi> Thoſe of the poorer and meaner ſort, who cannot uſe longer prayers, might eaſily learn the <hi>Confeſſion, Almighty and moſt merciful Father, we have Erred, &amp;c. one</hi> of the <hi>Collects</hi> for <hi>morning, O Lord our heavenly Father, almighty and everlaſting God, who haſt,</hi> &amp;c. <hi>one</hi> for the <hi>Evening, Lighten our darkneſs,</hi> and then uſe the <hi>Lord's Prayer,</hi> and <hi>The Grace of our Lord Ieſus Chriſt,</hi> ma<g ref="char:EOLhyphen"/>king all their Family to kneel and with Reverence join. Even this would be of a wholſome effect. Others, of greater
+<pb n="IX" facs="tcp:106615:6"/> leiſure and ability, both may and ought to uſe more; and I preſume want not help at hand. Beſides this, ſeeing there are daily publick prayers in two Chur<g ref="char:EOLhyphen"/>ches of the Town at leaſt, what would it be for every ſufficient Houſekeeper, if not to come often themſelves, yet to ſend daily at leaſt, one or two of the Family, to pray there for all the reſt? The <hi>ſenſe of Religion</hi> would hereby <hi>grow</hi> amongſt us, and <hi>the face of</hi> it daily <hi>look brighter.</hi>
+            </p>
+            <p>Thirdly, On what ever daies or times you are forgetful, remiſs, or negligent, ſuffer not the <hi>Lord's-day evening</hi> to paſs without ſome ſolemn prayers in the Fa<g ref="char:EOLhyphen"/>mily: And then call to account the younger ſort, and ſervants, how they have ſpent the Lord's-day? Where they have been at Church? or what they re<g ref="char:EOLhyphen"/>member? and make ſome of them, that are are able to read in the Holy Bible, or any other good Books, in the hearing of the reſt. All profeſſions of Chriſtians condemn, and will riſe up in judgment againſt, the generality of thoſe, who call themſelves Church of <hi>England</hi> men, for neglect of prayers in the Family, and calling their Family to account.</p>
+            <p>Fourthly, Both <hi>your ſelves in perſon</hi> ob<g ref="char:EOLhyphen"/>ſerve,
+<pb n="X" facs="tcp:106615:7"/> and ſee that <hi>your Families</hi> in ſome tolerable manner of <hi>ſtrictneſs obſerve the Lord's-Day.</hi> Nothing more <hi>promotes the power of Godlineſs,</hi> and <hi>keeps up the face of Religion</hi> amongſt us, than ſuch obſerva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Fiftly, as one branch hereof, ſend your <hi>ſervants,</hi> and <hi>younger people, to Church, and Catechiſm,</hi> in the <hi>afternoon</hi> on the Lord's days. Buſineſs is pretended for many ſervants in the morning. After<g ref="char:EOLhyphen"/>noon there can be little. And Catechi<g ref="char:EOLhyphen"/>ſing is the proper preaching for ſuch people. I wiſh it could be truly ſaid, the <hi>Elder ſort</hi> of the Commonalty did not want it.</p>
+            <p>Laſtly, Of all ſins, both <hi>your ſelve be<g ref="char:EOLhyphen"/>ware of,</hi> and upon all occaſions, as you hear it, <hi>manifeſt your abhorrence</hi> of that common, but odious, uſeleſs, and unrea<g ref="char:EOLhyphen"/>ſonable ſin of <hi>Common Swearing.</hi> Warn your children and ſervants firſt, and then, if after guilty, chaſtiſe them for it; and if ſervants will not reform it, turn them away: <hi>Keep up</hi> the <hi>Reverence of God's name,</hi> and this will be a means to <hi>promote</hi> in your own, and others hearts, <hi>his fear.</hi>
+            </p>
+            <p>
+               <hi>Now the good God make you perfect in</hi>
+               <pb n="XI" facs="tcp:106615:7" rendition="simple:additions"/> 
+               <hi>every good work, deliver you from evil one, and preſerve you to his Heavenly Kingdom.</hi> This I daily on my knees, more than once or twice (commonly) pray for you. And do you, ſometimes, (at the leaſt, when you read this) pray the ſame for</p>
+            <closer>
+               <signed>Your unworthy, but affection at and Faithful Paſtour E. Corke &amp; Roſſe.</signed>
+               <dateline>Biſhop's-Court, Corke, <date>Novemb. 27. 1691.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="prayer">
+            <head>
+               <hi>For the better minding ſome of us of particular</hi> Vows, <hi>here follows the</hi> Form of Prayer, <hi>which was made, and uſed, when (the</hi> City <hi>being</hi> taken) <hi>our</hi> Churches <hi>were</hi> reſtored <hi>to us.</hi>
+            </head>
+            <p>O God of all Wiſdom &amp; Power, who alone reigneſt over all, that is, or is called Great, in Heaven, or in Earth; Mighty in Counſel, Wonderful in Work<g ref="char:EOLhyphen"/>ing, Terrible in Praiſes. We vile ſinners, leſs than the leaſt of thy Mercies, hum<g ref="char:EOLhyphen"/>bly adore and bleſs thee for all that Grace, Truth, and Faithfulneſs which Thou haſt ſhewn to us thy Unworthy ſervants, and to the Reſt of our Num<g ref="char:EOLhyphen"/>bers, who cannot here now preſent themſelves. Thou art Righteous in all thy Waies, Holy and Gracious in all thy Works. Thou executeſt Righteouſneſs
+<pb n="XII" facs="tcp:106615:8"/> and judgment for all that are oppreſſed, and Thou haſt magnified thy Mercy a<g ref="char:EOLhyphen"/>bove all thy Name. We have cried un<g ref="char:EOLhyphen"/>to thee, O Lord, in our Diſtreſs, and Thou haſt heard us. Thou haſt deliver<g ref="char:EOLhyphen"/>ed us from under the power of our Cru<g ref="char:EOLhyphen"/>el Enemies. Thou haſt redeemed our Life from Deſtruction, and crowned us with loving kindneſs, and tender mer<g ref="char:EOLhyphen"/>cies. Thou haſt again ſet our feet in a large room, and reſtored us to our Liber<g ref="char:EOLhyphen"/>ty to worſhip thee, according to thy Word and Ordinance, in publick Aſſem<g ref="char:EOLhyphen"/>blies. <note place="margin">Note, The Proteſtants were often impriſoned in the Chur<g ref="char:EOLhyphen"/>ches.</note> For our ſins, O Lord, thou madeſt thine Houſe, our Priſon; and in thy ten<g ref="char:EOLhyphen"/>der mercy thou haſt now made our Pri<g ref="char:EOLhyphen"/>ſon the Place of our Praiſes. We will therefore bleſs thee as long as we live: We will lift up our hands in thy name, and Our Hearts in thy Love. We will daily pay our vows to thee the God of our ſalvation; and by thy Grace, with Life, and converſation, with Heart and ſoul, and all that is within us, ſtrive to make thy praiſe glorious.</p>
+            <p>Bleſſing, and Glory, and Wiſdom, and Thanksgiving, and Honour, and Power, and Might, be unto our God, and unto the Lamb, for Ever &amp; Ever. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayers">
+            <pb n="XIII" facs="tcp:106615:8"/>
+            <head>Though it be beſt that in ſecret Prayer, each uſe his own words; yet for the help of thoſe, who are leſs Exerciſed, Here are two ſhort Prayers, a ſmall charge to me<g ref="char:EOLhyphen"/>mory.</head>
+            <div type="prayer">
+               <head>A ſhort Morning Prayer in ſecret.</head>
+               <p>O God, my Health, my Life, my Hap<g ref="char:EOLhyphen"/>pineſs and Portion for ever. I moſt humbly adore and worſhip thine unſeen, but all-ſeeing Majeſty: bleſſing thee, that thy good hand has raiſed me this morn<g ref="char:EOLhyphen"/>ing, again to caſt my ſelf at thy footſtool.</p>
+               <p>Thou, O Lord, art Gracious, and Ho<g ref="char:EOLhyphen"/>ly, and Bleſſed; but I am vile and abo<g ref="char:EOLhyphen"/>minable, and deſerve to be moſt miſera<g ref="char:EOLhyphen"/>ble: as being very corrupt by nature, and having a heart further depraved by a multitude of ſins, moſt truly mine own; more in number than I can rec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unt<g ref="char:punc">▪</g> and of more grievous guilt than I am able to ſet forth: yet, what is my only ſupport, not exceeding thy mercy in Chriſt Jeſus my Saviour.</p>
+               <p>In his name I come unto thee; and for<g ref="char:EOLhyphen"/>aſmuch as I deſire to turn from all my ſins, both at preſent, and for the future, and to go mourning all my days for what I cannot now recall; I moſt earneſtly
+<pb n="XIV" facs="tcp:106615:9"/> beſeech thy pardon through my Savi<g ref="char:EOLhyphen"/>our's bloud, and thy Spirit both to purge out of my heart all the old leaven of naughtineſs, and to repleniſh it with the Belief, Love, and Fear of thee, my God. Grant, O Lord, I may ever cleave unto thee, and follow hard after thee, and in the end obtain everlaſting life with thee. Keep me this day watchful againſt mine iniquities, the ſins which eaſily beſet me. Lead me in the way that is good: De<g ref="char:EOLhyphen"/>fend me from all Evil, and ſupply all my wants, as thou ſeeſt beſt for me.</p>
+               <p>Hear me alſo for thy Holy Church U<g ref="char:EOLhyphen"/>niverſal; for Ours in Particular; for our Gracious King and Queen; for all in Au<g ref="char:EOLhyphen"/>thority under them; for all the Miniſters of thy Church; for the whole body of the People; for my Friends and Bene<g ref="char:EOLhyphen"/>factors; for my Relations and Kindred; [<note n="*" place="margin">Here you mention a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y of your near<g ref="char:EOLhyphen"/>eſt relations or friends.</note> eſpecially for, <hi>&amp;c.]</hi> for all who are di<g ref="char:EOLhyphen"/>ſtreſſed. <note n="†" place="margin">Here any who have de<g ref="char:EOLhyphen"/>ſired your Prayers.</note> O thou great All-ſufficient God, be thou a ſhield and ſuccour to us all. And in the Unity of thy Church guide me, and all thine, by thy Counſel, until thou ſhalt bring us to thy Glory, through Jeſus Chriſt our Lord, <hi>Amen.</hi>
+               </p>
+               <closer>Our Father, &amp;c.</closer>
+            </div>
+            <div type="prayer">
+               <pb n="XV" facs="tcp:106615:9"/>
+               <head>A Short Prayer for Evening, in ſecret.</head>
+               <p>O Father of Lights, with whom is no Darkneſs, from whom nothing is hid, and who never ſlumbereſt nor ſleepeſt. I frail creature, to whoſe ſup<g ref="char:EOLhyphen"/>port thou haſt made ſleep neceſſary, be<g ref="char:EOLhyphen"/>ing now about to go to my reſt, humbly fall down before thee, and with ſoul &amp; bo<g ref="char:EOLhyphen"/>dy worſhipping thee, deſire to cloſe this day with thee, and in thy peace and fear.</p>
+               <p>Thy good hand has carried me through the buſineſs and Dangers of the day; and bleſſed be thy Holy name, thy Fa<g ref="char:EOLhyphen"/>therly care, and Loving kindneſs for it. Thou, O Lord, art never wanting unto me: but I am ever wanting to thy Grace and my ſelf. How many have been this <note place="margin">Here you ought to make parti<g ref="char:EOLhyphen"/>cular r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>flex<g ref="char:EOLhyphen"/>ions, and may menti<g ref="char:EOLhyphen"/>on any miſ<g ref="char:EOLhyphen"/>carriage.</note> day the errors of my ways? ** How have I come ſhort of my duty? [In **] yea, done contrary to it. I do, O God, from my ſoul, bewail all. Now, look graciouſly, I beſeech thee, upon me, in thy Son Chriſt Jeſus. In him, O Lord, hear; O Lord forgive; and cauſe thy face to ſhine upon thy ſervant. Lay me to reſt, ſprinkled with the bloud of my Saviour, in Holy peace<g ref="char:punc">▪</g> and in the com<g ref="char:EOLhyphen"/>fortable hopes of a Bleſſed Reſurrection at the laſt day. Make my ſleep this
+<pb n="XVI" facs="tcp:106615:10"/> night ſweet and pure; and when I a<g ref="char:EOLhyphen"/>wake, let me be ſtill with thee. Raviſh my ſoul with thy love, and enlarge my heart in longing deſires after thee, and ſerious delight in the thoughts of thee, and the bleſſed company of Heaven. Prepare me for my long ſleep, and keep me ever watchful, every fit and willing to leave this world, and deſirous to be with thee.</p>
+               <p>Gather together, O Lord, all thy Church, and till the fulneſs thereof ſhall be come in, Purge, quiet, and defend all parts of it. Let thine Eyes be ever open for good on this part of it into which thou haſt haſt caſt thy ſervant; and eſpe<g ref="char:EOLhyphen"/>cially on them, who under thee are the Defenders of it, our Gracious King and Queen. Keep, Guide, and Govern them, and all who in Church or State Govern under them. Make all thy Miniſters able, faithful and ſuccesful. Bleſs and reward all my Friends. Pardon, and turn mine Enemies. Help the Helpleſs. Receive into thy Protection this night, me, and all my Relations <hi>[&amp;c.</hi> *] Pre<g ref="char:EOLhyphen"/>ſerve us all, Good Lord, to thy Heavenly Kingdom, through Jeſus Chriſt our Sa<g ref="char:EOLhyphen"/>viour. <hi>Amen.</hi>
+               </p>
+               <closer>Our Father which, &amp;c.</closer>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="title_page">
+            <pb facs="tcp:106615:10"/>
+            <p>A SERMON Preached at <hi>WHITE-HALL,</hi> Before the QUEEN, On The Fourth <hi>Sunday</hi> in <hi>Lent, March</hi> 22. 1690.</p>
+            <p>REFLECTING On the late Sufferings and Deliverance of the Proteſtants in the City and County of <hi>CORKE.</hi>
+            </p>
+            <p>Publiſhed for the ſake of thoſe concerned in it, who could not hear it, yet may edify by it.</p>
+            <p>By <hi>EDWARD</hi> Lord Biſhop of <hi>CORKE</hi> and <hi>ROSSE.</hi>
+            </p>
+            <p>
+               <hi>CORK,</hi> Printed by <hi>John Brent,</hi> for <hi>David Jones</hi> Bookſeller; and are to be ſold at his Shop in <hi>Cork,</hi> 1691.</p>
+         </div>
+         <div type="sermon">
+            <pb facs="tcp:106615:11"/>
+            <pb n="1" facs="tcp:106615:11"/>
+            <head>A SERMON, &amp;c.</head>
+            <epigraph>
+               <bibl>The Text. Pſalm Lxxvi. 10.</bibl>
+               <q>Surely the wrath of man ſhall praiſe thee: the remainder of wrath ſhalt thou restrain.</q>
+            </epigraph>
+            <p>THE moſt both of <hi>ancient</hi> and <hi>mo<g ref="char:EOLhyphen"/>dern Authorities</hi> date this Pſalm in good <hi>Hezekiah's</hi> days; at leaſt, on the <hi>occaſion</hi> of that nights deliverance, when the <hi>Angel of the Lord</hi> fell in upon the <hi>Aſſyrian</hi> Camp, and <hi>ſlew</hi> of them <hi>one hundred and fourſcore and five thouſand.</hi> When with ſuch a mighty hand, and out-ſtretched arm, God reſcued his peo<g ref="char:EOLhyphen"/>ple, <hi>ſome</hi> from <hi>ſlavery, ſome</hi> from <hi>death, all</hi> from the <hi>power and dread of their ene<g ref="char:EOLhyphen"/>mies,</hi>
+               <pb n="2" facs="tcp:106615:12"/> then was it eminently, that <hi>in Ju<g ref="char:EOLhyphen"/>dah was God known, and his name was great in Iſrael.</hi> Then did it appear more glo<g ref="char:EOLhyphen"/>riouſly, that <hi>in Salem was his tab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rnacle, and his dwelling place in Sion. For there brake he the arrows of the bow, the ſhield, and the ſword, and the battel,</hi> v. 1, 2, 3. Then <hi>the ſtout-h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arted w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re ſpoy<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d, they ſlept their ſleep</hi> (the ſleep of nature and of death together), <hi>and non<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the men of might found their hands.</hi> v 5 Then did <hi>God ariſe to judgment, to ſave all the meek of the earth,</hi> v. 9. Or rather, as the origi<g ref="char:EOLhyphen"/>nal no leſs naturally bears, <hi>to ſave all the poor of the land.</hi> Which Salvation the ſacred Author having thus loftily and ſweetly ſung, adds for a cloſe, as in an <hi>Ecstatick Acclamation,</hi> this Divine Aphoriſm (verified not only by that ſin<g ref="char:EOLhyphen"/>gle inſtance, but by the experience of all ages) <hi>Surely the wrath of man ſhall praiſe thee; the remainder of wrath ſhalt thou reſtrain.</hi>
+            </p>
+            <p>I know a certain Church allows not <hi>Hallelujahs</hi> in <hi>Lent:</hi> but the <hi>redeemed of the Lord, whom he hath delivered from the hand of the enemy,</hi> and <hi>gathered</hi> them out of <hi>the land of bondage,</hi> of <hi>Terrors and Ravage,</hi> muſt be excuſed, if they think
+<pb n="3" facs="tcp:106615:12"/> not any time unmeet for them to pro<g ref="char:EOLhyphen"/>proclaim <hi>The Lord hath done great things for them. The Lord hath done great things for us, whereof we are glad. He changeth times,</hi> he changeth events at pleaſure; and when even <hi>the wrath of man praiſes him,</hi> how may <hi>Gratitude</hi> be ever ſilent?</p>
+            <p>
+               <hi>Wrath</hi> properly denotes the heat of Anger (ſo the Origin of the Hebrew word for it in the <hi>Text</hi> directs us to take it) the <hi>fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rceneſs of man,</hi> ſays our old tranſlation; well enough <hi>(O! ſi ſic omnia).</hi> But not fierceneſs alone, without a mix<g ref="char:EOLhyphen"/>ture and connotation of <hi>Pride,</hi> the com<g ref="char:EOLhyphen"/>mon adjunct of <hi>wrath,</hi> both in Nature and ſcripture. <hi>Proud wrath, Prov. xxi.</hi> 24. And, <hi>we have heard the Pride of Moab.—I know his wrath, ſaith the Lord, Jer. xlviii.</hi> 19, 20. Yet are we not, for rea<g ref="char:EOLhyphen"/>ſons, which will appear anon, to inter<g ref="char:EOLhyphen"/>pret wrath here only of the <hi>inward</hi> (how ever <hi>compound affection,</hi> but to compriſe alſo under this name all its <hi>tendencies and effects;</hi> all the Diſturbances, Tu<g ref="char:EOLhyphen"/>mults, Oppreſſions, Cruelties, Deſtru<g ref="char:EOLhyphen"/>ctions and Deſolations it operates to, or produces. For <hi>all theſe</hi> as we ſhall ſee, each in their way <hi>do,</hi> or <hi>ſhall, praiſe God.</hi>
+            </p>
+            <pb n="4" facs="tcp:106615:13"/>
+            <p> That indeed touching <hi>wrath,</hi> thus ta<g ref="char:EOLhyphen"/>ken, it ſhould be ſaid as in the later mem<g ref="char:EOLhyphen"/>ber of the <hi>Text, God will reſtrain it,</hi> all will acknowledge reaſonable to admit. But that wrath, in ſuch a latitude, ſhould praiſe God, is next to impoſſible to con<g ref="char:EOLhyphen"/>ceive; eſpecially when St. <hi>James</hi> has told us, <hi>The wrath of man worketh not the righte<g ref="char:EOLhyphen"/>ouſn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs</hi> 
+               <note place="margin">Jam. 1. 20.</note> 
+               <hi>of God.</hi> We muſt therefore di<g ref="char:EOLhyphen"/>ſtinctly conſider each branch of the <hi>Text.</hi>
+            </p>
+            <p>And firſt, <hi>The wrath of man ſhall praiſe thee. Shall</hi> may be referred to a double period; To the <hi>time future in this world,</hi> or to <hi>the day of judgm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt</hi> in the next: and touching the praiſe of God by the wrath of man, both, or either reference will be found moſt illuſtriouſly true.</p>
+            <p>
+               <hi>1ſt.</hi> Even in the preſent World the Wrath, Furies, Inſolence, Oppreſſions, and all the violence of men ſhall praiſe God; not indeed by mans intention, (ſo 'tis ſure what St. <hi>James</hi> ſays, <hi>The wrath of man worketh not the righteouſneſs of God)</hi> but by <hi>God's over-ruling providence,</hi> by an all-wiſe and unſeen management.</p>
+            <p>A <hi>threefold act of Providence,</hi> as to ſuch things as the wrath of man, that is, even as to <hi>moral evils,</hi> is ordinarily aſſerted to God, by Divines. He permits, limits, and directs.</p>
+            <pb n="5" facs="tcp:106615:13" rendition="simple:additions"/>
+            <p> 
+               <hi>1ſt.</hi> To begin with the loweſt degree of praiſe, which God reaps from the wrath of man; <hi>He permits it:</hi> for other<g ref="char:EOLhyphen"/>wiſe it could not be: And he permits it <hi>upon moſt holy and wiſe counſel.</hi> None in<g ref="char:EOLhyphen"/>deed can deny God's <hi>abſolute Dominion</hi> and ſoveraignty over all his creatures. <hi>He may do</hi> with them, and every of them, <hi>what he will; and who ſhall ſay unto him what doeſt thou?</hi> But it muſt be together acknowledged, that in the Government of world, and eſpecially of men, God makes as little uſe of this ſoveraign Do<g ref="char:EOLhyphen"/>minion, as ever did any who pretended to ſoveraignty. What to Man Law is, that to God is his Infinite Wiſdom: and what ever he does, he does for moſt ex<g ref="char:EOLhyphen"/>cellent reaſons; in the wiſeſt ſort, and for the beſt ends. He rather wills what he does, becauſe it is good, than does any thing, becauſe he abſolutely wills it: ſo that I dare not ſay, <hi>Arbitrary Government</hi> (that is <hi>abſolute Will for a Law)</hi> has <hi>any precedent</hi> even in the <hi>Empire of the moſt High.</hi> Having therefore in the <hi>Creation</hi> made <hi>free Agents,</hi> his wiſdom did not ſee it fit, to ſeem ſo far inconſiſtent with himſelf, as by his <hi>Providence</hi> ever to <hi>tye</hi> them up. He can <hi>Regulate</hi> their <hi>Attempts,</hi>
+               <pb n="6" facs="tcp:106615:14"/> and <hi>Govern</hi> their <hi>Actions</hi> in other ways: and he'll ſhew it ſo one day. In the mean while he'll not <hi>Enſlave</hi> his <hi>Subjects</hi> for his <hi>Glory.</hi> He <hi>leaves them in the hand of their own counſel;</hi> gives them indeed moſt ex<g ref="char:EOLhyphen"/>cellent Laws, and thoſe enforced by moſt proper ſanctions, of the higheſt Rewards and Puniſhments. He is not wanting with the ſweet breathing and preventi<g ref="char:EOLhyphen"/>ons of his ſpirit, or aſſiſtances of his grace; but after all, he <hi>precludes not men from their natural liberty:</hi> He is ever con<g ref="char:EOLhyphen"/>ſtant to himſelf, the ſame in providence as in creation; the holy immutable God, <hi>without variation or ſhadow of change. The wrath of man</hi> ſtill may break forth, and it <hi>praiſes God,</hi> in that it is <hi>Permitted.</hi>
+            </p>
+            <p>But much more (2.) in that it is <hi>Limi<g ref="char:EOLhyphen"/>ted,</hi> and even in every particular in<g ref="char:EOLhyphen"/>ſtance, moſt particularly. Men do indeed commonly what they will; but moſt times not ſo much miſchief as they would. <hi>Hitherto ſhalt thou go, and here ſhall thy proud waves be ſtopt.</hi> The whole deſign againſt innocent <hi>Joſeph,</hi> which his en<g ref="char:EOLhyphen"/>vious brethrens wrath had laid, conſiſted of divers parts; <hi>Let us ſlay him,</hi> ſay they, <note place="margin">Gen. xxxvii. 20.</note> 
+               <hi>and caſt him into ſome pit, and we will ſay ſome evil beaſt has devoured him, and then</hi>
+               <pb n="7" facs="tcp:106615:14"/> 
+               <hi>we ſhall ſee what will become of his dreams.</hi> In other terms, they would deſtroy him, make away his body, palliate their vil<g ref="char:EOLhyphen"/>lany by a lye, ſecure to themſelves by that means impunity, and in fine defeat God's counſels. But <hi>Reuben</hi> interpoſes, and they ſlay him not; only they caſt him into a pit, and God provides the pit ſhould have no water in it. <hi>Reuben</hi>'s <hi>interpoſiti<g ref="char:EOLhyphen"/>on</hi> (no doubt) was no leſs <hi>from God,</hi> than the <hi>pits emptineſs:</hi> and both particulars, <hi>inſtances</hi> of God's <hi>Limiting hand.</hi> To take another inſtance. The Devil had malice enough to have deſtroyed <hi>Job,</hi> and all that belong'd to him: yet one while he may deſtroy <hi>Job</hi>'s goods, houſes, ſtock and family, but not touch his perſon: anon may <hi>touch his bone and fleſh,</hi> but <hi>not his life. Job</hi> I, and II. In theſe caſes nei<g ref="char:EOLhyphen"/>ther men nor devils went as far as their inclination or malice led.</p>
+            <p>Yet again, ſometimes the <hi>wrath of man</hi> is permitted to <hi>vent all its Venim;</hi> only the <hi>External Agents</hi> or Inſtruments are <hi>tied up.</hi> The three young Jewiſh Nobles are bound and <hi>caſt unto the burning fiery furnace,</hi> but the fire faſtens only upon their bonds, ſo that they are at liberty to walk, to ſtretch their limbs, &amp; at eaſe ex<g ref="char:EOLhyphen"/>patiate
+<pb n="8" facs="tcp:106615:15"/> in the flames: <hi>not ſo much as an hair on their head is ſinged, nor their coats chan<g ref="char:EOLhyphen"/>ged, nor the ſmell of fire had paſſed on them, Dan.</hi> III. 27. <hi>Daniel</hi> himſelf is thrown unto the hungry Lions: but the <hi>Lions mouths are ſtopped.</hi> Not only the Wrath of Man then, but the Appetites of fier<g ref="char:EOLhyphen"/>ceſt Beaſts, and even Malice of Devils as well as of Men, has its fixed pillars, and more than adamantine chains and poſts: and, by theſe its bounds, praiſes, that is, gives occaſion to the praiſe of him, who there fixed its <hi>Neplus ultra.</hi> In a word, the wrath of man praiſes God, in that it <hi>ſtops,</hi> though <hi>on force.</hi>
+            </p>
+            <p>To God's limitting, or ſetting bounds to the wrath of man, doth belong his Baffling it, and, at ſuch critical inſtants as he ſees meet, defeating the poor angry worms. This is rather here to be taken notice of, becauſe it is the very caſe which gave occaſion, as 'tis thought, to this Pſalm. <hi>Sennacherib,</hi> King of <hi>Aſsyria, had</hi> 
+               <note place="margin">2 Kings 18. 13. 17.</note> 
+               <hi>come up againſt, and had taken moſt of the fenced Cities of Judah:</hi> and was about with a vaſt Army (ſuch as comes not into the field now a-days) to inveſt <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> it ſelf; all, not without great haughtineſs and inſolence, even againſt
+<pb n="9" facs="tcp:106615:15"/> the moſt High himſelf. <hi>Hearken not,</hi> ſays he, to the poor beſieged Jews, by his En<g ref="char:EOLhyphen"/>voys, <note place="margin">V. 32.</note> 
+               <hi>Hearken not to Hezekiah, when he perſwadeth you, ſaying, The Lord will de<g ref="char:EOLhyphen"/>liver you. Hath any of the gods of the Nations delivered at all his land out of the hands of the King of Aſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ria. Where are the gods of Ham<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th and of A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pad? Where are the gods of Sepharvaim,</hi> &amp;c. <hi>Have they deliver'd Samaria out of my hand? Who are they amongſt all the gods of the Countreys, that have deliver'd th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir Countrey out of mine hand, that the Lord ſhould deliver Jeruſalem out of mine hand?</hi> Now was the time for God to exact praiſe from the fierceneſs of this ſwag<g ref="char:EOLhyphen"/>gering bubble; and he does it. By his word to his Prophet <hi>Iſaiah,</hi> He autho<g ref="char:EOLhyphen"/>riſes <hi>Jeruſalem</hi> to defy the invaſion. <hi>Ch.</hi> 19. <hi>v.</hi> 21, 22. <hi>The virgin the daughter of Sion hath deſpiſed thee, and laughed thee to ſcorn; The daught<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r of Jeruſalem hath ſhaken her head at thee;</hi> and v. 27. 28. He ſends the invading King word (in part) how he will deal with him, <hi>I know thy abode, and thy going out, and thy coming in, and thy rage againſt me. Becauſe thy rage against me, and thy tumult is come up into mine ears, therefore I will put mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi>
+               <pb n="10" facs="tcp:106615:16"/> 
+               <hi>hook in thy noſe, and my bridle in thy lips, and I will turn thee back by the way by which thou cameſt.</hi> In v, 32, 33, &amp;c, He aſſures the invaded and diſtreſſed people of de<g ref="char:EOLhyphen"/>liverance, <hi>Thus ſaith the Lord concerning the King of Aſſyria; he ſhall not come into this City, nor ſhoot an arrow there, nor come before it with a ſhield,</hi> &amp;c. <hi>for I will defend this City to ſave it,</hi> &amp;c. And finally, v. 35, and 36. the deliverance is effected: <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> came to paſs in that night, that the Angel of the Lord went out, and ſmote of them one hundred fourſc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re and four thouſand. And when they aroſe in the morning, they were all dead corpſes.</hi> Now the wrath of man had praiſed God. Now we know, and the <hi>Aſsyrians</hi> then knew, that the Lord is greater than all gods; for in the <note place="margin">Ezod. 18. 11.</note> thing wherein they dealt proudly, he was above them. So ſhew thy ſelf, O Lord, to all the proud ones of the Earth!</p>
+            <p>But more gloriouſly yet doth the wrath of man operate to the praiſe of God by his <hi>Directing</hi> either <hi>it</hi> or <hi>its ef<g ref="char:EOLhyphen"/>fects<g ref="char:punc">▪</g> to ends and purpoſes of his own,</hi> be<g ref="char:EOLhyphen"/>yond or beſide the intention of the wrath<g ref="char:EOLhyphen"/>ful. And herein moſt manifoldly ſhines forth <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the much</hi> various <hi>Wiſdom,</hi> Power and Goodneſs
+<pb n="11" facs="tcp:106615:16"/> of the Almighty. It is not eaſy, if poſ<g ref="char:EOLhyphen"/>ſible, to repreſent, or account (even in ge<g ref="char:EOLhyphen"/>neral) all thoſe marvellous ends of his own, which God in this world ſerves and accompliſhes by the ſins, by the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uries, rage, and Pride of men. May I have leave to ſpecify ſome.</p>
+            <p>
+               <hi>1ſt.</hi> Upon the world, that is <hi>mankind in general.</hi> The wrath of man praiſes God, in that it is commonly the great <hi>Inſtrum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt of his judgments</hi> and Venge<g ref="char:EOLhyphen"/>ance throughout the Earth, while the unthinking, raging Inſolents prove only God's executioners. They indeed indulge the ferity and barbarity of their own nature; they genuinly ſhew, and of their own accord nakedly act themſelves; in<g ref="char:EOLhyphen"/>tending not any ways to be ſubſervient to God, nay haply intending rather to affront him, and yet notwithſtanding while they thus deſign meer ſelf-gratifi<g ref="char:EOLhyphen"/>cation, in open Tyranny, or private Spleen, they do God's work for him un<g ref="char:EOLhyphen"/>awares. Hereof we have a moſt illuſtri<g ref="char:EOLhyphen"/>ous inſtance in another <hi>Aſſyrian</hi> King; <hi>Iſai. X.</hi> As to his <hi>Pride,</hi> he ſaith, <hi>Are not my Princes altogether Kings? is not Calno as Carchemiſh—and Samaria as Damaſcus,</hi> &amp;c. All of them my New Conqueſts, a<g ref="char:EOLhyphen"/>like
+<pb n="12" facs="tcp:106615:17"/> over-run with eaſe, and intirely ſub<g ref="char:EOLhyphen"/>jected to my will. Here is now an Uni<g ref="char:EOLhyphen"/>verſal Monarch; at leaſt, one more neer<g ref="char:EOLhyphen"/>ly ſuch, than any who now huff and rage, as if they would be: And he too falling upon his neighbours, <hi>for the Glory of his A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms.</hi> For, <hi>It is in his heart to deſtroy and cut off Nations not a few,</hi> v. 7, 8, &amp;c. This deſign and <hi>affectation of bloud,</hi> ad<g ref="char:EOLhyphen"/>ded to his <hi>pride,</hi> are certainly an high<g ref="char:EOLhyphen"/>flown pitch of the <hi>wrath of man.</hi> But can God have any praiſe hence? yes; In all this, though his own Stomach and Ty<g ref="char:EOLhyphen"/>ranny acted him, yet was he notwith<g ref="char:EOLhyphen"/>ſtanding all along, only God's tool, and for God taking vengeance upon an <hi>Hy<g ref="char:EOLhyphen"/>pocritical Nation, the people of God's wrath,</hi> v. 5, 6, <hi>O Aſsyrian the rod of mine Anger, and the ſtaff in their hand</hi> (that is by a change of the pronoun (or perſon) fre<g ref="char:EOLhyphen"/>quent with the Hebrew, The Staff in thine (the <hi>Aſſyrians)</hi> hand) <hi>is mine in<g ref="char:EOLhyphen"/>dignation. I will ſend him againſt an Hy<g ref="char:EOLhyphen"/>pocritical Nation. Howbeit,</hi> (v. 7.) <hi>he meaneth not ſo, neither d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es his heart think ſo.</hi> He only deſigned Empire, Tyranny, bloudy greatneſs; and to that purpoſe magically conſulted which way to bend his arms, as we read, <hi>Ezek.</hi> XXI. 21. But
+<pb n="13" facs="tcp:106615:17"/> God directed him againſt this guilty Na<g ref="char:EOLhyphen"/>tion. Amongſt whom notwithſtanding, there was no doubt, as the Apoſtle ſpeaks in another caſe, a Remnant according un<g ref="char:EOLhyphen"/>to the Election of grace; ſome men of piety, or of good and honeſt hearts, for 'tis touching the people of the Jews (his then only viſible church) that God ſpeaks, and them in zeal for their amendment he calls by ſuch rough terms. Now thô all by God deſign'd upon the wicked multitude of them might be the meer cutting them off, and ſo the <hi>Aſſyrians</hi> fu<g ref="char:EOLhyphen"/>ry, in regard of theſe, praiſed only the <hi>Divine juſtice;</hi> yet upon thoſe of them that feared the Lord and his word, the wrath of man praiſed alſo <hi>his grace and fatherly love</hi> in chaſtizing his children: In regard of both the proud and wrath<g ref="char:EOLhyphen"/>ful <hi>Aſsyrian</hi> is God's inſtrument: Which engages me to ſpeak a little more diſtin<g ref="char:EOLhyphen"/>ctly, how the wrath of man praiſes God, both upon his <hi>Church,</hi> and upon his <hi>Ene<g ref="char:EOLhyphen"/>mies.</hi>
+            </p>
+            <p>And <hi>1ſt.</hi> upon his Church; God by his directing Providence makes the wrath of men praiſe him, when it by reſting upon his ſervants, reforms and amends them; or which is much the
+<pb n="14" facs="tcp:106615:18"/> ſame, of good makes them better, ad<g ref="char:EOLhyphen"/>vances them in purity, and in all Chri<g ref="char:EOLhyphen"/>ſtian virtue and practice. This the Ene<g ref="char:EOLhyphen"/>my intends not, but God ſuperintending effects. There is no praiſe which God eſteems equal to the Prevalence or Growth of Holineſs in his Church. When the wrath of man purges the faithful, it praiſes him moſt ſeraphicly; and I may ſay, it together turns to prayer, and that very effectually, for the remo<g ref="char:EOLhyphen"/>val of that very wrath from his people. That God many times refines his Church in the fire, and by the heat of her Ene<g ref="char:EOLhyphen"/>mies fury, the Inſtances in all ages are ſo plentiful, that it is hard to find where to begin, or having begun, where to end. Inſtead of medling therefore with ages at a diſtance, I will only crave leave to ſay, that there was even amongſt the people of theſe Nations, a while a go, ſome viſible appearance of amendment; for a time at leaſt: whether by the miſ<g ref="char:EOLhyphen"/>eries we ſuffer'd, or upon the fears of what we apprehended imminent, I can<g ref="char:EOLhyphen"/>not ſpeak. There was really (as far as man could ſee) more preparation for Heaven, more contempt of this world, more open hearts and hands, more ſtrict walking,
+<pb n="15" facs="tcp:106615:18"/> and care of mens ways, more retrench<g ref="char:EOLhyphen"/>ment of vanity &amp; luxury, than for ſome years had been before obſervable: I wiſh I might not ſay, than is at preſent, in moſt perſons, viſible. The wrath of the com<g ref="char:EOLhyphen"/>mon Enemy did amongſt us then praiſe God. But is that wrath, at leaſt the fears of it, over at preſent? Or are we, by be<g ref="char:EOLhyphen"/>ing longer under ſuch apprehenſions, hardened, and grown more inſenſible? for I muſt beg pardon, if I ſay plainly, we are now again, moſt of us, as bad as ever we were. I do not ſay all. God be bleſſed we have ſome excellent exam<g ref="char:EOLhyphen"/>ples of perſeverance; and the greateſt where it ought, and where it is moſt il<g ref="char:EOLhyphen"/>luſtrious, in the Greateſt. But as to the moſt of us, who are fallen back, give me leave to ſay, if the <hi>wrath</hi> of our <hi>Enemies</hi> and I muſt inſert alſo (the <hi>Favours</hi> and <hi>Protection</hi> of our <hi>Deliverers)</hi> do not <hi>praiſe</hi> God by <hi>amending</hi> us, we muſt ex<g ref="char:EOLhyphen"/>pect God will <hi>force praiſe</hi> to himſelf from the <hi>wrathful conſticts</hi> on <hi>both ſides;</hi> we ſhall be daſht in pieces againſt, and with, thoſe our adverſaries, whom we cannot judge more the Enemies of God, than by our incorrigibleneſs we manifeſt our ſelves to be, and have been; we ſhall pe<g ref="char:EOLhyphen"/>riſh
+<pb n="16" facs="tcp:106615:19" rendition="simple:additions"/> both, like veſſels of diſhonour, by mutual colliſions. But God avert it.</p>
+            <p>To return from whence I may ſeem to have digreſt, having firſt craved par<g ref="char:EOLhyphen"/>don (which I humbly do) for this ſhort, but neceſſary admonition by the way. To return, I ſay.</p>
+            <p>It is another particular of <hi>praiſe</hi> which by the <hi>wrath of men</hi> God reaps from the faithful, when it quickens them to Faith, ſtudy of perſeverance, patience, magna<g ref="char:EOLhyphen"/>nimity, and even rejoycing in tribulati<g ref="char:EOLhyphen"/>on: when though thrown, and reſting under the wrath of their own Enemies, (tho perhaps ſuch who ſcarce ſeem to act like <hi>men)</hi> they laud and magnify the name of their <hi>God,</hi> who has thought them worthy to ſuffer for him; they wait and hang upon him with unſhaken dependance and patience; praying in<g ref="char:EOLhyphen"/>deed, yet quietly expecting, deliverance; either in this world, or to a better; and ſubmitting to his will, which way of the two he pleaſes to diſmiſs them from the yoke. Thus befell it in the caſe of St. <hi>Paul</hi> and <hi>Silas,</hi> when by the command of the <hi>Philippian</hi> Magiſtrates thruſt into the inner Priſon with their feet made faſt in the Stocks. <hi>At midnight they prayed</hi> 
+               <note place="margin">Acts XVI. 25.</note>
+               <pb n="17" facs="tcp:106615:19"/> 
+               <hi>and ſang praiſes unto God.</hi> An example drawn into practice, no doubt in moſt ages, by vaſtly greater numbers, though unequal Saints.</p>
+            <p>Our adverſaries (ſomewhere) of late have oftentimes in ſeveral places curſt the damn'd Hereticks, as they call'd them, whom they had driven hungry, and al<g ref="char:EOLhyphen"/>moſt naked, through thick and thin, as ſheep to the ſlaughter, for that in their cold priſons they would not forbear their prayers and their Pſalms. They have threatned them with bolts and irons, and the Gallows too, except they would de<g ref="char:EOLhyphen"/>ſiſt, but, tho for that time interrupted, they have not been finally ſilent to their God. Theſe were <hi>Refugees</hi> to heaven, and I crave it may not be offenſive to ſay, I hope <hi>not leſs loyal,</hi> meerly becauſe with their own little eaſe, and leſs ſafety or advantage, they kept poſſeſſion of ſome part of the Earth for their Countrey<g ref="char:EOLhyphen"/>men. They yielded not a tittle of faith or right, except to ſuffer for both be to yield.</p>
+            <p>But to ſhut up this point. Thus the <hi>praiſe of God</hi> has many times been inhan<g ref="char:EOLhyphen"/>ced by the <hi>wrath of man:</hi> while it has appeared to the regret of wicked men,
+<pb n="18" facs="tcp:106615:20"/> and their Chieftain the <hi>grand Abaddon and Apollyon,</hi> which acts them, that, mau<g ref="char:EOLhyphen"/>gre the malice of men and Devils, God could not be debarred, at leaſt deprived, of the Praiſes and Hearts of his Faithful.</p>
+            <p>I will mention but one way more, in which, through Divine Direction of it, the wrath of man praiſes God, and that is upon his <hi>Enemies;</hi> when what they de<g ref="char:EOLhyphen"/>ſigned proudly, for their own advance<g ref="char:EOLhyphen"/>ment, he turns together to <hi>Their Ruin,</hi> and poſſibly alſo to his <hi>Pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ples D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liver<g ref="char:EOLhyphen"/>ance.</hi> Before, we ſaw them <hi>God's Exe<g ref="char:EOLhyphen"/>cutioners</hi> on <hi>others;</hi> now we ſhall ſee them ſuch upon <hi>themſelves.</hi> This per<g ref="char:EOLhyphen"/>haps was never more illuſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iouſly verified than in <hi>Haman.</hi> He is conſulted <hi>what ſhall be done unto the man, whom the King</hi> 
+               <note place="margin">Eſth. VI. 6.</note> 
+               <hi>delighteth to honour. Now Haman thought in his heart, to whom ſhould the King de<g ref="char:EOLhyphen"/>light to do honour more than to my ſelf?</hi> By the bye, I need not tell you what an implacable rage and malice <hi>Haman</hi> brea<g ref="char:EOLhyphen"/>thed againſt the Jews, and particularly againſt <hi>Mordecai,</hi> for the hanging of whom upon the Gallows, that he had prepared, he came then to ſpeak to the King [v. 4] Well: <hi>Haman</hi> gives his ad<g ref="char:EOLhyphen"/>vice, and 'tis like what was to be ex<g ref="char:EOLhyphen"/>pected
+<pb n="19" facs="tcp:106615:20"/> from ſuch a touring empty head, [v. 8, 9] <hi>Let the royal apparel be brought which the King uſes to wear, and the horſe th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the King rideth upon, and crown royal which is ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t upon his head: And let this apparel and horſe be delivered to the hand of one of the King's moſt noble Princ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, that they may array the man withal, whom the King d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lighteth to honour, and bring him on horſeb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck through the ſtreet of the City, and proclaim before him, Thus ſhall it be done to the man whom the King delight<g ref="char:EOLhyphen"/>eth to honor.</hi> Upon this the King gives his royal mandate to him. v. 10. <hi>Mike haſt, and take the Apparel, and the horſe as thou haſt ſaid, and do even ſo to Mordecai the J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w, that ſitteth at the King's gate: let nothing fail of all that thou haſt ſpoken:</hi> Which is executed in the following verſe. And, now, by <hi>Haman</hi>'s own advice, his hated <hi>Mordecai</hi> is become great at Court, he ſoon hanged upon the Gallows he had prepared for <hi>Mordecai;</hi> and though the Orders given out for the ſlaughter to be acted on the Jews, being ſolemnly paſt under Seal, could not <hi>by the law of the Medes and Perſians</hi> be reverſt, yet an or<g ref="char:EOLhyphen"/>der is granted (O! that the like had come to ſome men in good time) that
+<pb n="20" facs="tcp:106615:21"/> they ſhould ſtand on their own defence, and ſo the whole people of the Jews are delivered from the Maſſacre deſign'd on them.</p>
+            <p>Thus, O Bleſſed Father, may the wrath of man ever praiſe thee. Great and mar<g ref="char:EOLhyphen"/>vellous are thy works, O Lord God Al<g ref="char:EOLhyphen"/>mighty, Juſt and true are thy ways, O thou King of Saints.</p>
+            <p>Hitherto of the <hi>ſhall</hi> in <hi>this world.</hi> By our diſcou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe, whereon it appears, that here the wrath of man only in <hi>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me part</hi> or inſtances of it, and at certain times, praiſes God: But at that great day, when the vaſt Theatre of the world, and of all ages ſhall be opened, and the parti<g ref="char:EOLhyphen"/>cular ſcenes of each Tragedy, that from the beginning has been acting and acted in the ſeveral ſpots upon Earth, ſhall be diſplaid, then will it appear that <hi>All the Furies</hi> and Bravo's, nay <hi>All the Sag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> too of the world have <hi>all along,</hi> even in their bloudieſt outrages as well as moſt com<g ref="char:EOLhyphen"/>poſed conſultations, in their graveſt as well as in their boldeſt enterpriſes and tranſactions, buſied themſelves only like a company of blind madmen, doing they knew not what; ſometimes pleaſing,
+<pb n="21" facs="tcp:106615:21"/> ſometimes tormenting themſelves in the extravagant ſwinge of their own hu<g ref="char:EOLhyphen"/>mours or luſts, but in the mean whil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moving in a moſt regular, though to them unſeen courſe and method; All or<g ref="char:EOLhyphen"/>der'd by the wiſeſt counſel, and over <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<g ref="char:EOLhyphen"/>led by the ſweeteſt, though Almighty hand. Nothing in humane Action forc'd, nothing unnatural (as to God's part) who will then appear, let mens intrigues and plots have been what they could, ne<g ref="char:EOLhyphen"/>ver to have been at a loſs, either for coun<g ref="char:EOLhyphen"/>ſel, power or inſtruments to work his own will; but on the contrary ſo to have pre<g ref="char:EOLhyphen"/>diſpoſed and connected all events, that to his deſigns all have been directly ſubſer<g ref="char:EOLhyphen"/>vient and cooperative, however to hu<g ref="char:EOLhyphen"/>mane eyes they have ſeemed to run coun<g ref="char:EOLhyphen"/>ter: Only with this difference, <hi>ſome,</hi> ha<g ref="char:EOLhyphen"/>ving <hi>comply'd</hi> with his <hi>grace,</hi> have in the ſtrength thereof ſerved his purpoſe <hi>out of choice;</hi> others having <hi>reſiſted</hi> his grace, have notwithſtanding their own malice ſerved his purpoſe <hi>againſt their will.</hi> The one therefore will be graciouſly rewar<g ref="char:EOLhyphen"/>ded, the other juſtly puniſhed; but as to both, the Event in all will appear to have praiſed him. For where in his infinite wiſdom he ſaw not good to order the
+<pb n="22" facs="tcp:106615:22"/> wrath of man to his praiſe, it will be manifeſt, that the <hi>remainder of wrath he did reſtrain:</hi> which is the ſecond member of the verſe, and of which briefly.</p>
+            <p>The remainder of wrath ſhalt thou re<g ref="char:EOLhyphen"/>ſtrain: [CHEMOTH] <hi>Wrath</hi> in the plu<g ref="char:EOLhyphen"/>ral number, ſeems to be put in oppoſi<g ref="char:EOLhyphen"/>tion to [CHAMATH] the <hi>ſingle wra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h</hi> of man in the former part of the verſe: to ſhew there is more wrath, which God is to reſtrain, than meerly that of man. There is alſo more pride, which needs a<g ref="char:EOLhyphen"/>like reſtraint; namely, that of the <hi>first Lucifer,</hi> who ſinn'd, and, as is thought, fell by aſpiring <hi>to aſcend, and to be like the moſt High.</hi> There are finally, that I may add that beyond my Text, other <hi>counſels</hi> alſo, as well as other <hi>wrath and pride,</hi> beſides humane, which God con<g ref="char:EOLhyphen"/>founds. There is a wiſdom that deſcen<g ref="char:EOLhyphen"/>deth not from above (no nor grows on earth) but is devilliſh, <hi>Jam.</hi> III. 15. And both <hi>wrath, pride,</hi> and <hi>wiſdom,</hi> of <hi>Devils</hi> as well as <hi>men,</hi> ſhall God <hi>reſtrain,</hi> when he pleaſes not to turn them to his praiſe. Let there then be Helliſh plots, yet our God ſhall confound them.</p>
+            <p>I am not ignorant there is another ſenſe
+<pb n="23" facs="tcp:106615:22"/> of the word, which we render reſtrain, <hi>viz. he ſhall gird himſelf;</hi> whether with the remainder of the wraths of Enemies as with ſpoils, when he has defeated what thereof he liſts; or with wrath of his own, againſt his Enemies, I may not ſtand to diſcuſs: I have thought fit to keep to our own tranſlation. Waving therefore theſe interpretations, I ſhall only in two words conſider, <hi>How God re<g ref="char:EOLhyphen"/>ſtrains the remainder of wrath,</hi> which he does not ſee fit ſhall praiſe him.</p>
+            <p>
+               <hi>1ſt.</hi> He ſometimes <hi>happily</hi> reſtrains it; by <hi>changing</hi> (perhaps throughly <hi>convert<g ref="char:EOLhyphen"/>ing)</hi> the <hi>angry</hi> or furious <hi>heart.</hi> For even <hi>the hearts of Kings,</hi> and much more of meaner perſonages, <hi>are in the hands of the Lord, and as rivers of water he turneth</hi> 
+               <note place="margin">Prov. xxi. 1.</note> 
+               <hi>them whither he pleaſes.</hi> He changes, I ſay, the angry heart, either,</p>
+            <p>
+               <hi>1ſt.</hi> By Abating its furies, and indu<g ref="char:EOLhyphen"/>cing a calm and ſweet temper. Thus God reſtrain'd the remainder of <hi>Eſau</hi>'s wrath to his brother <hi>Jacob. Eſau had ſaid in his heart</hi> (perhaps ſworn, for, he was prophane enough to do ſo) <hi>the days of mourning for my father are at hand: then will I ſtay my brother Jacob. Gen. XXVII.</hi> 14. <hi>And he came to meet his bro<g ref="char:EOLhyphen"/>ther</hi>
+               <pb n="24" facs="tcp:106615:23"/> 
+               <hi>Jacob</hi> (an unarm'd ſhepherd, with wives, and children, and flocks) he came to meet, I ſay, this his naked brother, and <hi>four hundred men with him;</hi> all no doubt in warlike array, and he breathing his former fierce intentions. But God ſwee<g ref="char:EOLhyphen"/>tens him. To paſs by many little parti<g ref="char:EOLhyphen"/>culars of the ſtory: When they are in ſight of one another, God puts into <hi>Ja<g ref="char:EOLhyphen"/>cob</hi>'s heart to <hi>bow himſelf to the ground ſeven times until he came near unto his bro<g ref="char:EOLhyphen"/>ther.</hi> 
+               <note place="margin">Ch. XXXIII. 3. 4.</note> 
+               <hi>And Eſau ran to meet him, and em<g ref="char:EOLhyphen"/>braced him, and fell on his neck and kiſſed him, and they wept.</hi> O that all quarrels between brethren, that is at large be<g ref="char:EOLhyphen"/>tween private Chriſtians, might thus end, thus praiſe God!</p>
+            <p>Or, (2.) Sometimes God of his infi<g ref="char:EOLhyphen"/>nite grace lays a train, uſes means to con<g ref="char:EOLhyphen"/>vert and turn to himſelf the hearts of his &amp; his ſervants enemies. Thus it was with them who were ſent by the ſpiteful Pha<g ref="char:EOLhyphen"/>riſees to apprehend our Lord Jeſus: not without ſome grains of malice, undoubt<g ref="char:EOLhyphen"/>edly of their own; otherwiſe they would <note place="margin">John VII.</note> never have gone on ſuch an Errand. Now God had ſo order'd it, that at the moment theſe Officers found Jeſus, <hi>he was preaching in the temple:</hi> and their
+<pb n="25" facs="tcp:106615:23"/> curioſity moved them to attend and hear a little, before they take him: perhaps that they might catch, whereof to accuſe him. But the effect of what they heard is, their hearts are touched, they are ta<g ref="char:EOLhyphen"/>ken themſelves, they return to their prin<g ref="char:EOLhyphen"/>cipals, <hi>Never man ſpake like this man.</hi> May God daily more and more thus re<g ref="char:EOLhyphen"/>ſtrain wrath!</p>
+            <p>But we muſt remember in this ſort God uſes to reſtrain only the wrath of men, and but of ſome men too: for De<g ref="char:EOLhyphen"/>vils are incorrigibly malicious; and ſo are too many of their agents: Both theſe therefore are not convertible.</p>
+            <p>Wherefore as to their wrath, Second<g ref="char:EOLhyphen"/>ly, God more <hi>forcibly,</hi> perhaps <hi>dreadfully</hi> reſtrains it, by plain <hi>tying them up,</hi> or <hi>de<g ref="char:EOLhyphen"/>ſtroying</hi> them. As to tying up the De<g ref="char:EOLhyphen"/>vil at God's pleaſure, beſides the fore<g ref="char:EOLhyphen"/>mentioned caſe of <hi>Job,</hi> whom Satan could not touch until, and no farther than, God would permit, the twentieth of the <hi>Revelations,</hi> when we have ſtript it of all myſtery or propheſy in it, is a moſt poſitive and indefeaſible proof; v. 1. <hi>I ſaw an Angel come down from heaven, having the key of the bottomleſs pit, and a great chain in his hand.</hi> Here is (as I may
+<pb n="26" facs="tcp:106615:24"/> ſay) all the circumſtantiative pomp and deviſeables for the faſteſt confine<g ref="char:EOLhyphen"/>ment. A <hi>mighty Angel</hi> for an officer, a <hi>great chain</hi> to bind Satan, with a <hi>dungeon</hi> (the <hi>bottomleſs pitt)</hi> into which he is to be caſt; here in too he is to be ſhut: then for the dungeon, when ſhut, there is a <hi>key,</hi> and after all, according to the manner of the Eaſterlings, a <hi>ſeal</hi> to be ſet upon it, and <hi>none can looſe him</hi> ſave he that bound him. Stricter reſtraint can<g ref="char:EOLhyphen"/>not be deſcribed. Thus as to the wrath of the Devil. And as to incorrigible men, ſuch an one proved <hi>Sennacherib,</hi> the perſon ſo much concern'd in the ſub<g ref="char:EOLhyphen"/>ject of this Pſalm; the remainder of whoſe ſtory, let us conſider in a word. He loſt an army of one hundred fourſcore and five thouſand in one night, and that by the ſtroke of an Angel, (by a dreadful peſtilence perhaps, as ſome like expreſ<g ref="char:EOLhyphen"/>ſions in ſcripture ſeem to explain it) and he was preſerved no doubt to the ſame end, to which ſuch another was recover<g ref="char:EOLhyphen"/>ed from the like ſtroke; namely, that <hi>God might ſhew in him his power, and that</hi> 
+               <note place="margin">Exod. IX. 16.</note> 
+               <hi>his name might be d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>clared throughout all the Earth.</hi> His wrath ſhould together otherwiſe praiſe God, and in the end be
+<pb n="27" facs="tcp:106615:24"/> reſtrain'd. Immediately upon the loſs of his army, <hi>he fled</hi> out of <hi>Judea</hi> to his own Countrey, <hi>and dwelt at Nineveh (viz.</hi> the Metropolis of <hi>Aſsyria):</hi> where he fell again to his old practice, <hi>and in his wrath ſlew many of the Jewiſh Captives;</hi> and as the manner of ſuch Tyrants is, would have exerciſed further rage upon the dead bodies of the Hereticks, (for no bet<g ref="char:EOLhyphen"/>ter undoubtedly he accounted them) had not <hi>Tobit buried them privily, ſo that they</hi> 
+               <note place="margin">Tobit. I. 18.</note> 
+               <hi>could not be found when ſought for by the King.</hi> This his furious carier God ſtops; but how? <hi>And it came to paſs as he was</hi> 
+               <note place="margin">Iſai. XXXVII. 38.</note> 
+               <hi>worſhipping in the houſe of Niſroch his god, that Adrammelech and Sharezer his ſons ſmote him with the ſword; and they eſcaped into the land of Armenia: and Eſar<g ref="char:EOLhyphen"/>haddon his ſon reigned in his ſtead.</hi> So may all thine Enemies periſh, O Lord, and the wrath of Devils and incorrigi<g ref="char:EOLhyphen"/>ble men be reſtrain'd!</p>
+            <p>I have thus, as briefly as I could, diſ<g ref="char:EOLhyphen"/>patched both parts of my <hi>Text.</hi> I crave leave to conclude, by urging in a few words, ſome ſuch practice as this diſ<g ref="char:EOLhyphen"/>courſe is apt to perſwade.</p>
+            <p>And, <hi>Firſt,</hi> Inaſmuch as the wrath of man does even here praiſe God, namely,
+<pb n="28" facs="tcp:106615:25"/> by his providential over-ruling it and its Events; Let us ſtudy and obſerve this his no leſs wondrous than gracious ma<g ref="char:EOLhyphen"/>nagement of the world: Let not ſo ma<g ref="char:EOLhyphen"/>ny inſtances of God's moſt Holy and Wiſe providence paſs us without regard, as daily do. It is certainly one main part of pure Religion to attend, and much meditate on, the providence of God, which is not leſs fruitful of won<g ref="char:EOLhyphen"/>ders, than his Creation. And it is as much our intereſt, as our duty to do ſo. <hi>Whoſoever is wiſe, and will obſerve theſe things, even they ſhall underſtand the lo<g ref="char:EOLhyphen"/>ving</hi> 
+               <note place="margin">Pſ. evil. ult.</note> 
+               <hi>kindneſs of the Lord.</hi> Providence is a book legible to all, even the illiterate, (if they will but think) and in ſome ſenſe too ſuper-adding to ſcripture it ſelf. In the <hi>book of holy ſcripture</hi> indeed, we read the goodneſs and grace of God to mankind <hi>in general:</hi> In <hi>the book of pro<g ref="char:EOLhyphen"/>vidence,</hi> his mercies to us <hi>in particular.</hi> It deſerves therefore to be read, that is, ob<g ref="char:EOLhyphen"/>ſerved. And in our obſervation of God's loving kindneſs to us, and to his Church, let us not forget particularly to note, wherein, as to our ſelves, God makes the wrath of man to praiſe him? wherein, <hi>for us,</hi> he has brought Good out of Evll.
+<pb n="29" facs="tcp:106615:25"/> A ſword that by the ſame ſtroke can wound and heal, is wonderful indeed: But ſuch is the wrath of man, when God takes it in hand; and ſuch perhaps moſt of us have found it, if we would but du<g ref="char:EOLhyphen"/>ly reflect on what has befaln us. I may fay, were we careful to obſerve all, we ſhould certainly admire, love and adore our God in the ſevereſt dealings we can meet with, or have met with, from men.</p>
+            <p>Secondly, Inaſmuch as the <hi>wrath of man</hi> ſhall <hi>praiſe God,</hi> or <hi>be reſtrain'd,</hi> let us conſtantly maintain a comfortable Affiance and Dependance on God, in all conditions whatſoever; and that, whe<g ref="char:EOLhyphen"/>ther as to the courſe of <hi>publick affairs,</hi> or of <hi>our own private</hi> concerns. Let us ſtill truſt God, bear up in the worſt junctures, with courage and cheerfulneſs, with faith and patience; <hi>In well-doing committing all to him, as to a wiſe Creator,</hi> and no leſs wiſe and vigilant a Governour.</p>
+            <p>
+               <hi>(1ſt.)</hi> As to <hi>publick affairs;</hi> Let it con<g ref="char:EOLhyphen"/>tent us, that <hi>God governs the world.</hi> It may perhaps ſeem unto us, that he (at leaſt oftentimes) uſes but ſtrange inſtru<g ref="char:EOLhyphen"/>ments to govern it withal; ſuch, I may ſay, as none can govern with but him<g ref="char:EOLhyphen"/>ſelf. <hi>Stultitiâ hominum Deus regit mun<g ref="char:EOLhyphen"/>dum,</hi>
+               <pb n="30" facs="tcp:106615:26"/> has been ſaid by a wiſe man: and the conſideration thereof ſhould humble haughty wiſdom. If that be doubtful, 'tis ſure, <hi>The wrath of man ſhall praiſe thee.</hi> This is as proper to bring down <hi>proud wrath. Folly</hi> and <hi>Fury</hi> are indeed ſtrange expedients to govern by: But when an all wiſe and almighty hand takes the folly and fury of man to task, we need not fear the general management or iſ<g ref="char:EOLhyphen"/>ſue. Many clouds ariſe in the heavens, and are diſpell'd, either by winds bred in their own bowels, or we know not how; or at another time (peradventure) de<g ref="char:EOLhyphen"/>ſcend in clam and gentle ſhowers, upon the parched earth, a welcome refreſh<g ref="char:EOLhyphen"/>ment to man and beaſt. Many ſtorms fall, one while upon the vaſt Ocean, ano<g ref="char:EOLhyphen"/>ther while on Forreſts, and howling De<g ref="char:EOLhyphen"/>ſerts; ſtill, only where God directs them. So is it in publick Dangers: The ſame almighty hand has a thouſand ways to <hi>diſſipate</hi> them, or <hi>divert</hi> them from his Church. And he ſurely will, if we prove capable of ſuch mercy. The wrath of man ſhall praiſe him; and praiſe him it cannot, except all things ſucceed to his glory, and the good of the faithful, either in this world, or a better. Wherefore
+<pb n="31" facs="tcp:106615:26"/> be of good cheer, as to the publick.</p>
+            <p>And (2.) as to <hi>Our p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rvate concerns.</hi> If in the courſe of Divine Providence there were anything perfectly accidental, give me leave to ſay, the Faithful have more chances for their private ſecurity, than the circumſtances of publick bodies ad<g ref="char:EOLhyphen"/>mit.</p>
+            <p>The <hi>Church</hi> ſtill, as <hi>Iſrael in the wilder<g ref="char:EOLhyphen"/>neſs,</hi> has a large <hi>mixt multitude in it;</hi> and though the preſent Jews impute to thoſe numerous wicked In-mates more of their forefathers tranſgreſſions in that age, than juſtly they may; yet in our Iſrael, we may reaſonably hope, the moſt pro<g ref="char:EOLhyphen"/>voking ſhare of publick guilt does not ariſe from the ſincere part of the Church, that is, from perſons, who ſerve their God in ſpirit and truth, and who trem<g ref="char:EOLhyphen"/>ble at his word; of whom only at pre<g ref="char:EOLhyphen"/>ſent we ſpeak. Theſe therefore may juſtly hope, if the ſtorm ſhould fall here, it may blow over them, or they may find ſhelter. They may apply to them<g ref="char:EOLhyphen"/>ſelves ſuch comforts as theſe. <hi>Pſ. XXVII.</hi> 5. <hi>In the time of trouble he ſhall hide me in his pavilion: in the ſecret of his taber<g ref="char:EOLhyphen"/>nacle ſhall he hide me; he ſhall ſet me up<g ref="char:EOLhyphen"/>on a rook. Again,</hi> Pſ. XCI. 4. <hi>He ſhall cover</hi>
+               <pb n="32" facs="tcp:106615:27"/> 
+               <hi>thee with his feathers, and under his wings ſhalt thou truſt: his truth ſhall be thy ſhield and buckler.</hi> And perhaps many of us have found theſe things made good to us. <hi>Iſai. XLIX.</hi> 2. <hi>In the ſhadow of his hand hath he hid us.</hi> However, whether we have found it or no. 2 <hi>Chron. VI.</hi> 9. <hi>The eyes of the Lord run to and fro tho<g ref="char:EOLhyphen"/>rowout the whole Earth, to ſhew himſelf ſtrong in the behalf of them whoſe heart is perfect towards him:</hi> And thoſe eyes purify, as well as preſerve; cheriſh and provide ſuccour for the frailties of the mind, as well as of the outward man. Let the conſideration hereof therefore cheer us, as to our own, both Temporal and Spiritual concerns. The wrath of man ſhall <hi>praiſe God,</hi> either by our <hi>pre<g ref="char:EOLhyphen"/>ſervation,</hi> or <hi>betterment, or both.</hi>
+            </p>
+            <p>Laſtly, inaſmuch as all the praiſe which God gets by the wrath of men, is gene<g ref="char:EOLhyphen"/>rally, <hi>Againſt their will,</hi> and meerly forc'd by his almighty wiſdom and power, let not us, who avow our ſelves ſervants, and have the honour to be called the ſons of the moſt high, put our gracious Lord and Father to this force. It is enough for <hi>Rebels</hi> to praiſe him by their wrath, and againſt their will: <hi>Sons</hi> ſhould praiſe
+<pb n="33" facs="tcp:106615:27"/> him out of choice with cheerful wil<g ref="char:EOLhyphen"/>ling minds, in a ſpirit of Divine Love, Gratitude and Meekneſs; Of Peace, Sweetneſs and Charity; Of Holineſs, Duty, and ſtudy of all well-doing. In a word, God has been univerſally benefi<g ref="char:EOLhyphen"/>cent to us of theſe Nations, beyond what we could poſſibly hope for. Let not us repay him in ingratitude, looſeneſs and negligence. Let our praiſes be, to our power, as Univerſal as his Beneficence: beginning firſt, <hi>In our hearts;</hi> by an <hi>univerſal devotedneſs</hi> to our Duty, and by all Diligence therein: and particu<g ref="char:EOLhyphen"/>larly by what is moſt contrary to wrath, <hi>univerſal Charity.</hi> No man is thankful to God, or praiſes him at all (any other<g ref="char:EOLhyphen"/>wiſe than forcibly) who indulges a wrathful, bitter, or uncharitable ſpirit towards any man living. From our hearts, let our praiſes proceed into <hi>Acti<g ref="char:EOLhyphen"/>ons,</hi> by grateful returns; Doing good unto others, and as far as we are able, unto all; Even as God has both been, and done, good unto us. And if the praiſes of God be thus in our <hi>Hearts</hi> &amp; <hi>Actions,</hi> they will be ever and anon in our <hi>Mouths</hi> too: we ſhall even with our voices in ſome ſort exalt the God of our mercies.</p>
+            <pb n="34" facs="tcp:106615:28"/>
+            <p> And may the Cauſes of God's praiſes ever continue to us all, and particularly to <hi>Your Sacred Majeſty;</hi> for whom we <hi>poor Proteſtants of Ireland,</hi> above all men, muſt both <hi>pray</hi> and <hi>praiſe. May the prai<g ref="char:EOLhyphen"/>ſes of God,</hi> I ſay, <hi>be ever in your</hi> Majeſty's <hi>mouth,</hi> and <hi>a two-edged ſword in your hand;</hi> Not ſo much <hi>to execute Vengeance, as</hi> to Conquer; And, by Conquering, to give Peace, and together Laws for an happy Settlement, and for reforming what is amiſs in theſe diſtracted Churches and Kingdoms. May all late and preſent wrath of men amongſt us thus praiſe God; and ſuch remainders as will not, may he reſtrain. <hi>Amen, Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106615:28"/>
+         </div>
+      </body>
+   </text>
+</TEI>
